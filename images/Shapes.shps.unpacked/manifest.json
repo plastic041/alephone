@@ -1,0 +1,169 @@
+{
+  "format": "marathon-1-shapes",
+  "version": 1,
+  "source_name": "Shapes.shps",
+  "original_file": ".original",
+  "collection": 10,
+  "images": [
+    {
+      "shape": 0,
+      "bitmap": 0,
+      "width": 490,
+      "height": 93,
+      "file": "editable/collection_10/shape_00.png",
+      "sha256": "b46ec2e2db8cb721bc559ec592cdd3a3bf9ba09c70a8ca013e31695cde947410"
+    },
+    {
+      "shape": 1,
+      "bitmap": 1,
+      "width": 435,
+      "height": 325,
+      "file": "editable/collection_10/shape_01.png",
+      "sha256": "5147e6d6fd9626a65de08f80915197c6511cbf8731b7641c0a41fd3ca13b0ecb"
+    },
+    {
+      "shape": 2,
+      "bitmap": 2,
+      "width": 107,
+      "height": 74,
+      "file": "editable/collection_10/shape_02.png",
+      "sha256": "6cd19e7b33e5ff4ba4f1c18b994d51259c3cd08579b5745f4ab938f466d921f3"
+    },
+    {
+      "shape": 3,
+      "bitmap": 3,
+      "width": 120,
+      "height": 24,
+      "file": "editable/collection_10/shape_03.png",
+      "sha256": "b103fd2f7172072ab7631667d70312e86993dbd5d044698b633977a9c8201e93"
+    },
+    {
+      "shape": 4,
+      "bitmap": 4,
+      "width": 105,
+      "height": 25,
+      "file": "editable/collection_10/shape_04.png",
+      "sha256": "16e3d69f4279bd95e3ea8162e38612cb0b34124af8097bc88be9dd961fe8958a"
+    },
+    {
+      "shape": 5,
+      "bitmap": 5,
+      "width": 68,
+      "height": 25,
+      "file": "editable/collection_10/shape_05.png",
+      "sha256": "5a65f4a973bfb5a661b78d7f1f2e26ca9e1b7481942851667e4a9a8adefe6296"
+    },
+    {
+      "shape": 6,
+      "bitmap": 6,
+      "width": 93,
+      "height": 25,
+      "file": "editable/collection_10/shape_06.png",
+      "sha256": "e298e6b1d39c7c3ba3a16202ef73e064e02ce38e895b84c11c694db001e6796d"
+    },
+    {
+      "shape": 7,
+      "bitmap": 7,
+      "width": 81,
+      "height": 24,
+      "file": "editable/collection_10/shape_07.png",
+      "sha256": "5ef285ecc364da55f4d8ebadedc5a4dd6f2fe3516160c2483c886f1eee1463e6"
+    },
+    {
+      "shape": 8,
+      "bitmap": 8,
+      "width": 101,
+      "height": 25,
+      "file": "editable/collection_10/shape_08.png",
+      "sha256": "4a7960136a8d9070c7ba0cfe493449f3644a0ca0ac5656e9d683e00d19b2b3a6"
+    },
+    {
+      "shape": 9,
+      "bitmap": 9,
+      "width": 47,
+      "height": 29,
+      "file": "editable/collection_10/shape_09.png",
+      "sha256": "68718aa66b4c4bacd5bdc7881fa9955cd8a203813bb04c6d2a61b7e378819a1e"
+    },
+    {
+      "shape": 10,
+      "bitmap": 10,
+      "width": 46,
+      "height": 29,
+      "file": "editable/collection_10/shape_10.png",
+      "sha256": "d073258ad027bd8d608ec86d3cb31565a36ea755b3a5e7a7c1fa817ebfe47922"
+    },
+    {
+      "shape": 11,
+      "bitmap": 11,
+      "width": 137,
+      "height": 30,
+      "file": "editable/collection_10/shape_11.png",
+      "sha256": "8d24a9cb72efd22e39ac84b5f0b96950edc8473d78d299237625f7deb24902a5"
+    },
+    {
+      "shape": 12,
+      "bitmap": 12,
+      "width": 137,
+      "height": 30,
+      "file": "editable/collection_10/shape_12.png",
+      "sha256": "75bd39f67cfd29f0dec50515dfb48facd5752eb98c8aa10155ef376a7050cc8f"
+    },
+    {
+      "shape": 13,
+      "bitmap": 13,
+      "width": 134,
+      "height": 35,
+      "file": "editable/collection_10/shape_13.png",
+      "sha256": "5509e30b24d267fa6930746009f384537688941d990f2875fba5adc71b1c80a9"
+    },
+    {
+      "shape": 14,
+      "bitmap": 14,
+      "width": 134,
+      "height": 35,
+      "file": "editable/collection_10/shape_14.png",
+      "sha256": "c1b7207d577705f52feca548444fd0d9c74937aa05601c23d778848994db05cf"
+    },
+    {
+      "shape": 15,
+      "bitmap": 15,
+      "width": 374,
+      "height": 36,
+      "file": "editable/collection_10/shape_15.png",
+      "sha256": "d266d007dd190a9f912c81e0ecfc48fc5f1f9b1beae442bb5a30f71f9ac98259"
+    },
+    {
+      "shape": 16,
+      "bitmap": 16,
+      "width": 375,
+      "height": 36,
+      "file": "editable/collection_10/shape_16.png",
+      "sha256": "2efce1a42e1546021f292289de7b93e39be6f76d0e12e4400ca6cb24f9008876"
+    },
+    {
+      "shape": 17,
+      "bitmap": 17,
+      "width": 374,
+      "height": 36,
+      "file": "editable/collection_10/shape_17.png",
+      "sha256": "545297aa9b6f964767ccbc14f2d7326a6916ffb093307ed6bb687a501efb88ac"
+    },
+    {
+      "shape": 18,
+      "bitmap": 18,
+      "width": 201,
+      "height": 36,
+      "file": "editable/collection_10/shape_18.png",
+      "sha256": "7e58235b47352f2c1476ab5c31c826e0c727839a52f23bd16717c09ddab6c085"
+    },
+    {
+      "shape": 19,
+      "bitmap": 19,
+      "width": 257,
+      "height": 14,
+      "file": "editable/collection_10/shape_19.png",
+      "sha256": "2de3c221328b5a2b9f10aaca68667bbd04491e961c658621ef60c166e223bb11"
+    }
+  ]
+}

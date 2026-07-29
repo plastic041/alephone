@@ -1,0 +1,1918 @@
+{
+  "format": "classic-mac-resource-fork",
+  "version": 1,
+  "map_attributes": 0,
+  "source_name": "Marathon.appl",
+  "original_file": ".original",
+  "container": {
+    "kind": "macbinary",
+    "header": "AAhNYXJhdGhvbgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABBUFBMMjYuMiEAAAAAAAAAAAAABOuAAApLpauARzSrlex0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAACBgUqmAAA="
+  },
+  "resources": [
+    {
+      "type_hex": "57494e44",
+      "type": "WIND",
+      "id": 128,
+      "name": null,
+      "attributes": 0
+    },
+    {
+      "type_hex": "57494e44",
+      "type": "WIND",
+      "id": 129,
+      "name": null,
+      "attributes": 0
+    },
+    {
+      "type_hex": "77637462",
+      "type": "wctb",
+      "id": 128,
+      "name": null,
+      "attributes": 0
+    },
+    {
+      "type_hex": "77637462",
+      "type": "wctb",
+      "id": 129,
+      "name": null,
+      "attributes": 0
+    },
+    {
+      "type_hex": "76657273",
+      "type": "vers",
+      "id": 1,
+      "name": null,
+      "attributes": 0
+    },
+    {
+      "type_hex": "54455854",
+      "type": "TEXT",
+      "id": 128,
+      "name": null,
+      "attributes": 0
+    },
+    {
+      "type_hex": "7465726d",
+      "type": "term",
+      "id": 1000,
+      "name": null,
+      "attributes": 0
+    },
+    {
+      "type_hex": "7465726d",
+      "type": "term",
+      "id": 1001,
+      "name": null,
+      "attributes": 0
+    },
+    {
+      "type_hex": "7465726d",
+      "type": "term",
+      "id": 1002,
+      "name": null,
+      "attributes": 0
+    },
+    {
+      "type_hex": "7465726d",
+      "type": "term",
+      "id": 1009,
+      "name": null,
+      "attributes": 0
+    },
+    {
+      "type_hex": "7465726d",
+      "type": "term",
+      "id": 1010,
+      "name": null,
+      "attributes": 0
+    },
+    {
+      "type_hex": "7465726d",
+      "type": "term",
+      "id": 1011,
+      "name": null,
+      "attributes": 0
+    },
+    {
+      "type_hex": "7465726d",
+      "type": "term",
+      "id": 1019,
+      "name": null,
+      "attributes": 0
+    },
+    {
+      "type_hex": "7465726d",
+      "type": "term",
+      "id": 1020,
+      "name": null,
+      "attributes": 0
+    },
+    {
+      "type_hex": "7465726d",
+      "type": "term",
+      "id": 1021,
+      "name": null,
+      "attributes": 0
+    },
+    {
+      "type_hex": "7465726d",
+      "type": "term",
+      "id": 1022,
+      "name": null,
+      "attributes": 0
+    },
+    {
+      "type_hex": "7465726d",
+      "type": "term",
+      "id": 1023,
+      "name": null,
+      "attributes": 0
+    },
+    {
+      "type_hex": "7465726d",
+      "type": "term",
+      "id": 1029,
+      "name": null,
+      "attributes": 0
+    },
+    {
+      "type_hex": "7465726d",
+      "type": "term",
+      "id": 1030,
+      "name": null,
+      "attributes": 0
+    },
+    {
+      "type_hex": "7465726d",
+      "type": "term",
+      "id": 1031,
+      "name": null,
+      "attributes": 0
+    },
+    {
+      "type_hex": "7465726d",
+      "type": "term",
+      "id": 1032,
+      "name": null,
+      "attributes": 0
+    },
+    {
+      "type_hex": "7465726d",
+      "type": "term",
+      "id": 1033,
+      "name": null,
+      "attributes": 0
+    },
+    {
+      "type_hex": "7465726d",
+      "type": "term",
+      "id": 1040,
+      "name": null,
+      "attributes": 0
+    },
+    {
+      "type_hex": "7465726d",
+      "type": "term",
+      "id": 1041,
+      "name": null,
+      "attributes": 0
+    },
+    {
+      "type_hex": "7465726d",
+      "type": "term",
+      "id": 1049,
+      "name": null,
+      "attributes": 0
+    },
+    {
+      "type_hex": "7465726d",
+      "type": "term",
+      "id": 1050,
+      "name": null,
+      "attributes": 0
+    },
+    {
+      "type_hex": "7465726d",
+      "type": "term",
+      "id": 1051,
+      "name": null,
+      "attributes": 0
+    },
+    {
+      "type_hex": "7465726d",
+      "type": "term",
+      "id": 1052,
+      "name": null,
+      "attributes": 0
+    },
+    {
+      "type_hex": "7465726d",
+      "type": "term",
+      "id": 1059,
+      "name": null,
+      "attributes": 0
+    },
+    {
+      "type_hex": "7465726d",
+      "type": "term",
+      "id": 1060,
+      "name": null,
+      "attributes": 0
+    },
+    {
+      "type_hex": "7465726d",
+      "type": "term",
+      "id": 1061,
+      "name": null,
+      "attributes": 0
+    },
+    {
+      "type_hex": "7465726d",
+      "type": "term",
+      "id": 1062,
+      "name": null,
+      "attributes": 0
+    },
+    {
+      "type_hex": "7465726d",
+      "type": "term",
+      "id": 1069,
+      "name": null,
+      "attributes": 0
+    },
+    {
+      "type_hex": "7465726d",
+      "type": "term",
+      "id": 1070,
+      "name": null,
+      "attributes": 0
+    },
+    {
+      "type_hex": "7465726d",
+      "type": "term",
+      "id": 1079,
+      "name": null,
+      "attributes": 0
+    },
+    {
+      "type_hex": "7465726d",
+      "type": "term",
+      "id": 1080,
+      "name": null,
+      "attributes": 0
+    },
+    {
+      "type_hex": "7465726d",
+      "type": "term",
+      "id": 1089,
+      "name": null,
+      "attributes": 0
+    },
+    {
+      "type_hex": "7465726d",
+      "type": "term",
+      "id": 1090,
+      "name": null,
+      "attributes": 0
+    },
+    {
+      "type_hex": "7465726d",
+      "type": "term",
+      "id": 1091,
+      "name": null,
+      "attributes": 0
+    },
+    {
+      "type_hex": "7465726d",
+      "type": "term",
+      "id": 1092,
+      "name": null,
+      "attributes": 0
+    },
+    {
+      "type_hex": "7465726d",
+      "type": "term",
+      "id": 1099,
+      "name": null,
+      "attributes": 0
+    },
+    {
+      "type_hex": "7465726d",
+      "type": "term",
+      "id": 1109,
+      "name": null,
+      "attributes": 0
+    },
+    {
+      "type_hex": "7465726d",
+      "type": "term",
+      "id": 1110,
+      "name": null,
+      "attributes": 0
+    },
+    {
+      "type_hex": "7465726d",
+      "type": "term",
+      "id": 1111,
+      "name": null,
+      "attributes": 0
+    },
+    {
+      "type_hex": "7465726d",
+      "type": "term",
+      "id": 1112,
+      "name": null,
+      "attributes": 0
+    },
+    {
+      "type_hex": "7465726d",
+      "type": "term",
+      "id": 1120,
+      "name": null,
+      "attributes": 0
+    },
+    {
+      "type_hex": "7465726d",
+      "type": "term",
+      "id": 1129,
+      "name": null,
+      "attributes": 0
+    },
+    {
+      "type_hex": "7465726d",
+      "type": "term",
+      "id": 1130,
+      "name": null,
+      "attributes": 0
+    },
+    {
+      "type_hex": "7465726d",
+      "type": "term",
+      "id": 1131,
+      "name": null,
+      "attributes": 0
+    },
+    {
+      "type_hex": "7465726d",
+      "type": "term",
+      "id": 1139,
+      "name": null,
+      "attributes": 0
+    },
+    {
+      "type_hex": "7465726d",
+      "type": "term",
+      "id": 1140,
+      "name": null,
+      "attributes": 0
+    },
+    {
+      "type_hex": "7465726d",
+      "type": "term",
+      "id": 1149,
+      "name": null,
+      "attributes": 0
+    },
+    {
+      "type_hex": "7465726d",
+      "type": "term",
+      "id": 1150,
+      "name": null,
+      "attributes": 0
+    },
+    {
+      "type_hex": "7465726d",
+      "type": "term",
+      "id": 1159,
+      "name": null,
+      "attributes": 0
+    },
+    {
+      "type_hex": "7465726d",
+      "type": "term",
+      "id": 1179,
+      "name": null,
+      "attributes": 0
+    },
+    {
+      "type_hex": "7465726d",
+      "type": "term",
+      "id": 1200,
+      "name": null,
+      "attributes": 0
+    },
+    {
+      "type_hex": "7465726d",
+      "type": "term",
+      "id": 1201,
+      "name": null,
+      "attributes": 0
+    },
+    {
+      "type_hex": "7465726d",
+      "type": "term",
+      "id": 1209,
+      "name": null,
+      "attributes": 0
+    },
+    {
+      "type_hex": "7465726d",
+      "type": "term",
+      "id": 1240,
+      "name": null,
+      "attributes": 0
+    },
+    {
+      "type_hex": "7465726d",
+      "type": "term",
+      "id": 1241,
+      "name": null,
+      "attributes": 0
+    },
+    {
+      "type_hex": "7465726d",
+      "type": "term",
+      "id": 1249,
+      "name": null,
+      "attributes": 0
+    },
+    {
+      "type_hex": "7465726d",
+      "type": "term",
+      "id": 1250,
+      "name": null,
+      "attributes": 0
+    },
+    {
+      "type_hex": "7465726d",
+      "type": "term",
+      "id": 1251,
+      "name": null,
+      "attributes": 0
+    },
+    {
+      "type_hex": "7465726d",
+      "type": "term",
+      "id": 1259,
+      "name": null,
+      "attributes": 0
+    },
+    {
+      "type_hex": "7465726d",
+      "type": "term",
+      "id": 1260,
+      "name": null,
+      "attributes": 0
+    },
+    {
+      "type_hex": "7465726d",
+      "type": "term",
+      "id": 1261,
+      "name": null,
+      "attributes": 0
+    },
+    {
+      "type_hex": "7465726d",
+      "type": "term",
+      "id": 1269,
+      "name": null,
+      "attributes": 0
+    },
+    {
+      "type_hex": "7465726d",
+      "type": "term",
+      "id": 1039,
+      "name": null,
+      "attributes": 0
+    },
+    {
+      "type_hex": "53545223",
+      "type": "STR#",
+      "id": 128,
+      "name": null,
+      "attributes": 0
+    },
+    {
+      "type_hex": "53545223",
+      "type": "STR#",
+      "id": 129,
+      "name": null,
+      "attributes": 0
+    },
+    {
+      "type_hex": "53545223",
+      "type": "STR#",
+      "id": 131,
+      "name": null,
+      "attributes": 0
+    },
+    {
+      "type_hex": "53545223",
+      "type": "STR#",
+      "id": 132,
+      "name": null,
+      "attributes": 0
+    },
+    {
+      "type_hex": "53545223",
+      "type": "STR#",
+      "id": 152,
+      "name": null,
+      "attributes": 0
+    },
+    {
+      "type_hex": "53545223",
+      "type": "STR#",
+      "id": 150,
+      "name": null,
+      "attributes": 0
+    },
+    {
+      "type_hex": "53545223",
+      "type": "STR#",
+      "id": 151,
+      "name": null,
+      "attributes": 0
+    },
+    {
+      "type_hex": "53545223",
+      "type": "STR#",
+      "id": 130,
+      "name": null,
+      "attributes": 0
+    },
+    {
+      "type_hex": "53545223",
+      "type": "STR#",
+      "id": 133,
+      "name": null,
+      "attributes": 0
+    },
+    {
+      "type_hex": "53545223",
+      "type": "STR#",
+      "id": 134,
+      "name": null,
+      "attributes": 0
+    },
+    {
+      "type_hex": "53545223",
+      "type": "STR#",
+      "id": 135,
+      "name": null,
+      "attributes": 0
+    },
+    {
+      "type_hex": "53545223",
+      "type": "STR#",
+      "id": 136,
+      "name": null,
+      "attributes": 0
+    },
+    {
+      "type_hex": "53545223",
+      "type": "STR#",
+      "id": 137,
+      "name": null,
+      "attributes": 0
+    },
+    {
+      "type_hex": "53545223",
+      "type": "STR#",
+      "id": 138,
+      "name": null,
+      "attributes": 0
+    },
+    {
+      "type_hex": "53545223",
+      "type": "STR#",
+      "id": 153,
+      "name": null,
+      "attributes": 0
+    },
+    {
+      "type_hex": "53545220",
+      "type": "STR ",
+      "id": 5000,
+      "name": null,
+      "attributes": 0
+    },
+    {
+      "type_hex": "53545220",
+      "type": "STR ",
+      "id": 27309,
+      "name": null,
+      "attributes": 0
+    },
+    {
+      "type_hex": "73707274",
+      "type": "sprt",
+      "id": 128,
+      "name": null,
+      "attributes": 0
+    },
+    {
+      "type_hex": "534f434b",
+      "type": "SOCK",
+      "id": 128,
+      "name": null,
+      "attributes": 32
+    },
+    {
+      "type_hex": "53495a45",
+      "type": "SIZE",
+      "id": -1,
+      "name": null,
+      "attributes": 0
+    },
+    {
+      "type_hex": "53495a45",
+      "type": "SIZE",
+      "id": 1,
+      "name": null,
+      "attributes": 0
+    },
+    {
+      "type_hex": "53495a45",
+      "type": "SIZE",
+      "id": 0,
+      "name": null,
+      "attributes": 0
+    },
+    {
+      "type_hex": "50494354",
+      "type": "PICT",
+      "id": 1111,
+      "name": "som.res",
+      "attributes": 0,
+      "editable_file": "editable/PICT_1111.png",
+      "editable_sha256": "823acf5eca7e8fb48dbfe25826ed28e00f7695c74d58f1f0b3b62967ed02d6cb"
+    },
+    {
+      "type_hex": "50494354",
+      "type": "PICT",
+      "id": 1114,
+      "name": null,
+      "attributes": 0,
+      "editable_file": "editable/PICT_1114.png",
+      "editable_sha256": "d1bf2b28ca0c968589a66042d649e05e8c75e95d054a52443a9bf0a64dea6517"
+    },
+    {
+      "type_hex": "50494354",
+      "type": "PICT",
+      "id": 128,
+      "name": null,
+      "attributes": 0,
+      "editable_file": "editable/PICT_128.png",
+      "editable_sha256": "6cf4a893cf3ac248407bee6d44423d78aad8c7559b336945c88434dfaf033dd6"
+    },
+    {
+      "type_hex": "50494354",
+      "type": "PICT",
+      "id": 1000,
+      "name": "Credits-J.rsrc",
+      "attributes": 0,
+      "editable_file": "editable/PICT_1000.png",
+      "editable_sha256": "ca722056b44970739bfc17003e533374938ef12351d1d2a6e3f1d383b19f749a"
+    },
+    {
+      "type_hex": "6e726374",
+      "type": "nrct",
+      "id": 128,
+      "name": null,
+      "attributes": 0
+    },
+    {
+      "type_hex": "4d454e55",
+      "type": "MENU",
+      "id": 1000,
+      "name": null,
+      "attributes": 0
+    },
+    {
+      "type_hex": "4d454e55",
+      "type": "MENU",
+      "id": 1002,
+      "name": null,
+      "attributes": 0
+    },
+    {
+      "type_hex": "4d454e55",
+      "type": "MENU",
+      "id": 1003,
+      "name": null,
+      "attributes": 0
+    },
+    {
+      "type_hex": "4d454e55",
+      "type": "MENU",
+      "id": 1004,
+      "name": null,
+      "attributes": 0
+    },
+    {
+      "type_hex": "4d454e55",
+      "type": "MENU",
+      "id": 1005,
+      "name": null,
+      "attributes": 0
+    },
+    {
+      "type_hex": "4d454e55",
+      "type": "MENU",
+      "id": 1006,
+      "name": null,
+      "attributes": 0
+    },
+    {
+      "type_hex": "4d454e55",
+      "type": "MENU",
+      "id": 128,
+      "name": null,
+      "attributes": 0
+    },
+    {
+      "type_hex": "4d454e55",
+      "type": "MENU",
+      "id": 129,
+      "name": null,
+      "attributes": 0
+    },
+    {
+      "type_hex": "4d454e55",
+      "type": "MENU",
+      "id": 2000,
+      "name": null,
+      "attributes": 0
+    },
+    {
+      "type_hex": "4d454e55",
+      "type": "MENU",
+      "id": 2001,
+      "name": null,
+      "attributes": 0
+    },
+    {
+      "type_hex": "4d454e55",
+      "type": "MENU",
+      "id": 2002,
+      "name": null,
+      "attributes": 0
+    },
+    {
+      "type_hex": "4d454e55",
+      "type": "MENU",
+      "id": 2003,
+      "name": null,
+      "attributes": 0
+    },
+    {
+      "type_hex": "4d454e55",
+      "type": "MENU",
+      "id": 2004,
+      "name": null,
+      "attributes": 0
+    },
+    {
+      "type_hex": "4d454e55",
+      "type": "MENU",
+      "id": 2005,
+      "name": null,
+      "attributes": 0
+    },
+    {
+      "type_hex": "4d454e55",
+      "type": "MENU",
+      "id": 2006,
+      "name": null,
+      "attributes": 0
+    },
+    {
+      "type_hex": "4d454e55",
+      "type": "MENU",
+      "id": 2007,
+      "name": null,
+      "attributes": 0
+    },
+    {
+      "type_hex": "69637462",
+      "type": "ictb",
+      "id": 129,
+      "name": null,
+      "attributes": 0
+    },
+    {
+      "type_hex": "69637338",
+      "type": "ics8",
+      "id": 128,
+      "name": null,
+      "attributes": 0
+    },
+    {
+      "type_hex": "69637338",
+      "type": "ics8",
+      "id": 129,
+      "name": null,
+      "attributes": 0
+    },
+    {
+      "type_hex": "69637338",
+      "type": "ics8",
+      "id": 130,
+      "name": null,
+      "attributes": 0
+    },
+    {
+      "type_hex": "69637338",
+      "type": "ics8",
+      "id": 131,
+      "name": null,
+      "attributes": 0
+    },
+    {
+      "type_hex": "69637338",
+      "type": "ics8",
+      "id": 133,
+      "name": null,
+      "attributes": 0
+    },
+    {
+      "type_hex": "69637338",
+      "type": "ics8",
+      "id": 134,
+      "name": null,
+      "attributes": 0
+    },
+    {
+      "type_hex": "69637338",
+      "type": "ics8",
+      "id": 136,
+      "name": null,
+      "attributes": 0
+    },
+    {
+      "type_hex": "69637338",
+      "type": "ics8",
+      "id": 135,
+      "name": null,
+      "attributes": 0
+    },
+    {
+      "type_hex": "69637334",
+      "type": "ics4",
+      "id": 128,
+      "name": null,
+      "attributes": 0
+    },
+    {
+      "type_hex": "69637334",
+      "type": "ics4",
+      "id": 129,
+      "name": null,
+      "attributes": 0
+    },
+    {
+      "type_hex": "69637334",
+      "type": "ics4",
+      "id": 130,
+      "name": null,
+      "attributes": 0
+    },
+    {
+      "type_hex": "69637334",
+      "type": "ics4",
+      "id": 131,
+      "name": null,
+      "attributes": 0
+    },
+    {
+      "type_hex": "69637334",
+      "type": "ics4",
+      "id": 133,
+      "name": null,
+      "attributes": 0
+    },
+    {
+      "type_hex": "69637334",
+      "type": "ics4",
+      "id": 134,
+      "name": null,
+      "attributes": 0
+    },
+    {
+      "type_hex": "69637334",
+      "type": "ics4",
+      "id": 136,
+      "name": null,
+      "attributes": 0
+    },
+    {
+      "type_hex": "69637334",
+      "type": "ics4",
+      "id": 135,
+      "name": null,
+      "attributes": 0
+    },
+    {
+      "type_hex": "69637323",
+      "type": "ics#",
+      "id": 128,
+      "name": null,
+      "attributes": 0
+    },
+    {
+      "type_hex": "69637323",
+      "type": "ics#",
+      "id": 129,
+      "name": null,
+      "attributes": 0
+    },
+    {
+      "type_hex": "69637323",
+      "type": "ics#",
+      "id": 130,
+      "name": null,
+      "attributes": 0
+    },
+    {
+      "type_hex": "69637323",
+      "type": "ics#",
+      "id": 131,
+      "name": null,
+      "attributes": 0
+    },
+    {
+      "type_hex": "69637323",
+      "type": "ics#",
+      "id": 133,
+      "name": null,
+      "attributes": 0
+    },
+    {
+      "type_hex": "69637323",
+      "type": "ics#",
+      "id": 134,
+      "name": null,
+      "attributes": 0
+    },
+    {
+      "type_hex": "69637323",
+      "type": "ics#",
+      "id": 136,
+      "name": null,
+      "attributes": 0
+    },
+    {
+      "type_hex": "69637323",
+      "type": "ics#",
+      "id": 135,
+      "name": null,
+      "attributes": 0
+    },
+    {
+      "type_hex": "49434f4e",
+      "type": "ICON",
+      "id": 128,
+      "name": null,
+      "attributes": 0
+    },
+    {
+      "type_hex": "49434f4e",
+      "type": "ICON",
+      "id": 129,
+      "name": null,
+      "attributes": 32
+    },
+    {
+      "type_hex": "49434e23",
+      "type": "ICN#",
+      "id": 128,
+      "name": null,
+      "attributes": 0
+    },
+    {
+      "type_hex": "49434e23",
+      "type": "ICN#",
+      "id": 129,
+      "name": null,
+      "attributes": 0
+    },
+    {
+      "type_hex": "49434e23",
+      "type": "ICN#",
+      "id": 130,
+      "name": null,
+      "attributes": 0
+    },
+    {
+      "type_hex": "49434e23",
+      "type": "ICN#",
+      "id": 131,
+      "name": null,
+      "attributes": 0
+    },
+    {
+      "type_hex": "49434e23",
+      "type": "ICN#",
+      "id": 133,
+      "name": null,
+      "attributes": 0
+    },
+    {
+      "type_hex": "49434e23",
+      "type": "ICN#",
+      "id": 134,
+      "name": null,
+      "attributes": 0
+    },
+    {
+      "type_hex": "49434e23",
+      "type": "ICN#",
+      "id": 135,
+      "name": null,
+      "attributes": 0
+    },
+    {
+      "type_hex": "49434e23",
+      "type": "ICN#",
+      "id": 136,
+      "name": null,
+      "attributes": 0
+    },
+    {
+      "type_hex": "69636c38",
+      "type": "icl8",
+      "id": 130,
+      "name": null,
+      "attributes": 0
+    },
+    {
+      "type_hex": "69636c38",
+      "type": "icl8",
+      "id": 131,
+      "name": null,
+      "attributes": 0
+    },
+    {
+      "type_hex": "69636c38",
+      "type": "icl8",
+      "id": 128,
+      "name": null,
+      "attributes": 0
+    },
+    {
+      "type_hex": "69636c38",
+      "type": "icl8",
+      "id": 129,
+      "name": null,
+      "attributes": 0
+    },
+    {
+      "type_hex": "69636c38",
+      "type": "icl8",
+      "id": 133,
+      "name": null,
+      "attributes": 0
+    },
+    {
+      "type_hex": "69636c38",
+      "type": "icl8",
+      "id": 136,
+      "name": null,
+      "attributes": 0
+    },
+    {
+      "type_hex": "69636c38",
+      "type": "icl8",
+      "id": 134,
+      "name": null,
+      "attributes": 0
+    },
+    {
+      "type_hex": "69636c38",
+      "type": "icl8",
+      "id": 135,
+      "name": null,
+      "attributes": 0
+    },
+    {
+      "type_hex": "69636c34",
+      "type": "icl4",
+      "id": 128,
+      "name": null,
+      "attributes": 0
+    },
+    {
+      "type_hex": "69636c34",
+      "type": "icl4",
+      "id": 129,
+      "name": null,
+      "attributes": 0
+    },
+    {
+      "type_hex": "69636c34",
+      "type": "icl4",
+      "id": 130,
+      "name": null,
+      "attributes": 0
+    },
+    {
+      "type_hex": "69636c34",
+      "type": "icl4",
+      "id": 131,
+      "name": null,
+      "attributes": 0
+    },
+    {
+      "type_hex": "69636c34",
+      "type": "icl4",
+      "id": 133,
+      "name": null,
+      "attributes": 0
+    },
+    {
+      "type_hex": "69636c34",
+      "type": "icl4",
+      "id": 134,
+      "name": null,
+      "attributes": 0
+    },
+    {
+      "type_hex": "69636c34",
+      "type": "icl4",
+      "id": 135,
+      "name": null,
+      "attributes": 0
+    },
+    {
+      "type_hex": "69636c34",
+      "type": "icl4",
+      "id": 136,
+      "name": null,
+      "attributes": 0
+    },
+    {
+      "type_hex": "46524546",
+      "type": "FREF",
+      "id": 128,
+      "name": null,
+      "attributes": 0
+    },
+    {
+      "type_hex": "46524546",
+      "type": "FREF",
+      "id": 129,
+      "name": null,
+      "attributes": 0
+    },
+    {
+      "type_hex": "46524546",
+      "type": "FREF",
+      "id": 130,
+      "name": null,
+      "attributes": 0
+    },
+    {
+      "type_hex": "46524546",
+      "type": "FREF",
+      "id": 131,
+      "name": null,
+      "attributes": 0
+    },
+    {
+      "type_hex": "46524546",
+      "type": "FREF",
+      "id": 132,
+      "name": null,
+      "attributes": 0
+    },
+    {
+      "type_hex": "46524546",
+      "type": "FREF",
+      "id": 133,
+      "name": null,
+      "attributes": 0
+    },
+    {
+      "type_hex": "46524546",
+      "type": "FREF",
+      "id": 134,
+      "name": null,
+      "attributes": 0
+    },
+    {
+      "type_hex": "46524546",
+      "type": "FREF",
+      "id": 135,
+      "name": null,
+      "attributes": 0
+    },
+    {
+      "type_hex": "66696e66",
+      "type": "finf",
+      "id": 128,
+      "name": null,
+      "attributes": 0
+    },
+    {
+      "type_hex": "66696e66",
+      "type": "finf",
+      "id": 129,
+      "name": null,
+      "attributes": 0
+    },
+    {
+      "type_hex": "66696e66",
+      "type": "finf",
+      "id": 130,
+      "name": null,
+      "attributes": 0
+    },
+    {
+      "type_hex": "66696c6d",
+      "type": "film",
+      "id": 128,
+      "name": null,
+      "attributes": 0
+    },
+    {
+      "type_hex": "66696c6d",
+      "type": "film",
+      "id": 129,
+      "name": null,
+      "attributes": 0
+    },
+    {
+      "type_hex": "444c4f47",
+      "type": "DLOG",
+      "id": 10000,
+      "name": null,
+      "attributes": 0
+    },
+    {
+      "type_hex": "444c4f47",
+      "type": "DLOG",
+      "id": 10001,
+      "name": null,
+      "attributes": 0
+    },
+    {
+      "type_hex": "444c4f47",
+      "type": "DLOG",
+      "id": 10002,
+      "name": null,
+      "attributes": 0
+    },
+    {
+      "type_hex": "444c4f47",
+      "type": "DLOG",
+      "id": 130,
+      "name": null,
+      "attributes": 0
+    },
+    {
+      "type_hex": "444c4f47",
+      "type": "DLOG",
+      "id": 131,
+      "name": null,
+      "attributes": 32
+    },
+    {
+      "type_hex": "444c4f47",
+      "type": "DLOG",
+      "id": 5000,
+      "name": null,
+      "attributes": 0
+    },
+    {
+      "type_hex": "444c4f47",
+      "type": "DLOG",
+      "id": 3000,
+      "name": null,
+      "attributes": 0
+    },
+    {
+      "type_hex": "444c4f47",
+      "type": "DLOG",
+      "id": 1000,
+      "name": null,
+      "attributes": 0
+    },
+    {
+      "type_hex": "444c4f47",
+      "type": "DLOG",
+      "id": 137,
+      "name": null,
+      "attributes": 0
+    },
+    {
+      "type_hex": "444c4f47",
+      "type": "DLOG",
+      "id": 128,
+      "name": null,
+      "attributes": 0
+    },
+    {
+      "type_hex": "444c4f47",
+      "type": "DLOG",
+      "id": 129,
+      "name": null,
+      "attributes": 0
+    },
+    {
+      "type_hex": "444c4f47",
+      "type": "DLOG",
+      "id": 132,
+      "name": null,
+      "attributes": 0
+    },
+    {
+      "type_hex": "444c4f47",
+      "type": "DLOG",
+      "id": 133,
+      "name": null,
+      "attributes": 0
+    },
+    {
+      "type_hex": "444c4f47",
+      "type": "DLOG",
+      "id": 20000,
+      "name": null,
+      "attributes": 0
+    },
+    {
+      "type_hex": "444c4f47",
+      "type": "DLOG",
+      "id": 1001,
+      "name": null,
+      "attributes": 0
+    },
+    {
+      "type_hex": "444c4758",
+      "type": "DLGX",
+      "id": 1000,
+      "name": null,
+      "attributes": 0
+    },
+    {
+      "type_hex": "4449544c",
+      "type": "DITL",
+      "id": 132,
+      "name": null,
+      "attributes": 32
+    },
+    {
+      "type_hex": "4449544c",
+      "type": "DITL",
+      "id": 133,
+      "name": null,
+      "attributes": 32
+    },
+    {
+      "type_hex": "4449544c",
+      "type": "DITL",
+      "id": 10000,
+      "name": null,
+      "attributes": 0
+    },
+    {
+      "type_hex": "4449544c",
+      "type": "DITL",
+      "id": 10001,
+      "name": null,
+      "attributes": 0
+    },
+    {
+      "type_hex": "4449544c",
+      "type": "DITL",
+      "id": 10002,
+      "name": null,
+      "attributes": 0
+    },
+    {
+      "type_hex": "4449544c",
+      "type": "DITL",
+      "id": 134,
+      "name": null,
+      "attributes": 0
+    },
+    {
+      "type_hex": "4449544c",
+      "type": "DITL",
+      "id": 135,
+      "name": null,
+      "attributes": 32
+    },
+    {
+      "type_hex": "4449544c",
+      "type": "DITL",
+      "id": 5000,
+      "name": null,
+      "attributes": 0
+    },
+    {
+      "type_hex": "4449544c",
+      "type": "DITL",
+      "id": 136,
+      "name": null,
+      "attributes": 0
+    },
+    {
+      "type_hex": "4449544c",
+      "type": "DITL",
+      "id": 3000,
+      "name": null,
+      "attributes": 0
+    },
+    {
+      "type_hex": "4449544c",
+      "type": "DITL",
+      "id": 137,
+      "name": null,
+      "attributes": 0
+    },
+    {
+      "type_hex": "4449544c",
+      "type": "DITL",
+      "id": 138,
+      "name": null,
+      "attributes": 0
+    },
+    {
+      "type_hex": "4449544c",
+      "type": "DITL",
+      "id": 139,
+      "name": null,
+      "attributes": 0
+    },
+    {
+      "type_hex": "4449544c",
+      "type": "DITL",
+      "id": 150,
+      "name": null,
+      "attributes": 0
+    },
+    {
+      "type_hex": "4449544c",
+      "type": "DITL",
+      "id": 190,
+      "name": null,
+      "attributes": 0
+    },
+    {
+      "type_hex": "4449544c",
+      "type": "DITL",
+      "id": 27309,
+      "name": null,
+      "attributes": 0
+    },
+    {
+      "type_hex": "4449544c",
+      "type": "DITL",
+      "id": 128,
+      "name": null,
+      "attributes": 0
+    },
+    {
+      "type_hex": "4449544c",
+      "type": "DITL",
+      "id": 1000,
+      "name": null,
+      "attributes": 0
+    },
+    {
+      "type_hex": "4449544c",
+      "type": "DITL",
+      "id": 1001,
+      "name": null,
+      "attributes": 0
+    },
+    {
+      "type_hex": "64637462",
+      "type": "dctb",
+      "id": 10000,
+      "name": null,
+      "attributes": 32
+    },
+    {
+      "type_hex": "64637462",
+      "type": "dctb",
+      "id": 10001,
+      "name": null,
+      "attributes": 32
+    },
+    {
+      "type_hex": "64637462",
+      "type": "dctb",
+      "id": 5000,
+      "name": null,
+      "attributes": 0
+    },
+    {
+      "type_hex": "64637462",
+      "type": "dctb",
+      "id": 3000,
+      "name": null,
+      "attributes": 0
+    },
+    {
+      "type_hex": "64637462",
+      "type": "dctb",
+      "id": 1000,
+      "name": null,
+      "attributes": 0
+    },
+    {
+      "type_hex": "64637462",
+      "type": "dctb",
+      "id": 128,
+      "name": null,
+      "attributes": 0
+    },
+    {
+      "type_hex": "64637462",
+      "type": "dctb",
+      "id": 133,
+      "name": null,
+      "attributes": 0
+    },
+    {
+      "type_hex": "64637462",
+      "type": "dctb",
+      "id": 10002,
+      "name": null,
+      "attributes": 32
+    },
+    {
+      "type_hex": "64637462",
+      "type": "dctb",
+      "id": 134,
+      "name": null,
+      "attributes": 0
+    },
+    {
+      "type_hex": "64637462",
+      "type": "dctb",
+      "id": 131,
+      "name": null,
+      "attributes": 0
+    },
+    {
+      "type_hex": "64637462",
+      "type": "dctb",
+      "id": 20000,
+      "name": null,
+      "attributes": 0
+    },
+    {
+      "type_hex": "434f4445",
+      "type": "CODE",
+      "id": 0,
+      "name": null,
+      "attributes": 32
+    },
+    {
+      "type_hex": "434f4445",
+      "type": "CODE",
+      "id": 1,
+      "name": null,
+      "attributes": 20
+    },
+    {
+      "type_hex": "434f4445",
+      "type": "CODE",
+      "id": 2,
+      "name": null,
+      "attributes": 32
+    },
+    {
+      "type_hex": "434f4445",
+      "type": "CODE",
+      "id": 3,
+      "name": null,
+      "attributes": 32
+    },
+    {
+      "type_hex": "434f4445",
+      "type": "CODE",
+      "id": 4,
+      "name": null,
+      "attributes": 32
+    },
+    {
+      "type_hex": "434f4445",
+      "type": "CODE",
+      "id": 5,
+      "name": null,
+      "attributes": 32
+    },
+    {
+      "type_hex": "434f4445",
+      "type": "CODE",
+      "id": 6,
+      "name": null,
+      "attributes": 32
+    },
+    {
+      "type_hex": "434f4445",
+      "type": "CODE",
+      "id": 7,
+      "name": null,
+      "attributes": 32
+    },
+    {
+      "type_hex": "434f4445",
+      "type": "CODE",
+      "id": 8,
+      "name": null,
+      "attributes": 32
+    },
+    {
+      "type_hex": "434f4445",
+      "type": "CODE",
+      "id": 9,
+      "name": null,
+      "attributes": 32
+    },
+    {
+      "type_hex": "434f4445",
+      "type": "CODE",
+      "id": 10,
+      "name": null,
+      "attributes": 32
+    },
+    {
+      "type_hex": "434f4445",
+      "type": "CODE",
+      "id": 11,
+      "name": null,
+      "attributes": 32
+    },
+    {
+      "type_hex": "434f4445",
+      "type": "CODE",
+      "id": 12,
+      "name": null,
+      "attributes": 32
+    },
+    {
+      "type_hex": "434f4445",
+      "type": "CODE",
+      "id": 13,
+      "name": null,
+      "attributes": 32
+    },
+    {
+      "type_hex": "434f4445",
+      "type": "CODE",
+      "id": 14,
+      "name": null,
+      "attributes": 32
+    },
+    {
+      "type_hex": "434f4445",
+      "type": "CODE",
+      "id": 15,
+      "name": null,
+      "attributes": 32
+    },
+    {
+      "type_hex": "434f4445",
+      "type": "CODE",
+      "id": 16,
+      "name": null,
+      "attributes": 32
+    },
+    {
+      "type_hex": "434f4445",
+      "type": "CODE",
+      "id": 17,
+      "name": null,
+      "attributes": 32
+    },
+    {
+      "type_hex": "434f4445",
+      "type": "CODE",
+      "id": 18,
+      "name": null,
+      "attributes": 32
+    },
+    {
+      "type_hex": "434f4445",
+      "type": "CODE",
+      "id": 19,
+      "name": null,
+      "attributes": 32
+    },
+    {
+      "type_hex": "434f4445",
+      "type": "CODE",
+      "id": 20,
+      "name": null,
+      "attributes": 32
+    },
+    {
+      "type_hex": "434f4445",
+      "type": "CODE",
+      "id": 21,
+      "name": null,
+      "attributes": 32
+    },
+    {
+      "type_hex": "434f4445",
+      "type": "CODE",
+      "id": 22,
+      "name": null,
+      "attributes": 32
+    },
+    {
+      "type_hex": "434f4445",
+      "type": "CODE",
+      "id": 23,
+      "name": null,
+      "attributes": 32
+    },
+    {
+      "type_hex": "434f4445",
+      "type": "CODE",
+      "id": 24,
+      "name": null,
+      "attributes": 32
+    },
+    {
+      "type_hex": "434f4445",
+      "type": "CODE",
+      "id": 25,
+      "name": null,
+      "attributes": 32
+    },
+    {
+      "type_hex": "434e544c",
+      "type": "CNTL",
+      "id": 130,
+      "name": null,
+      "attributes": 0
+    },
+    {
+      "type_hex": "434e544c",
+      "type": "CNTL",
+      "id": 132,
+      "name": null,
+      "attributes": 0
+    },
+    {
+      "type_hex": "434e544c",
+      "type": "CNTL",
+      "id": 1006,
+      "name": null,
+      "attributes": 0
+    },
+    {
+      "type_hex": "434e544c",
+      "type": "CNTL",
+      "id": 135,
+      "name": null,
+      "attributes": 0
+    },
+    {
+      "type_hex": "434e544c",
+      "type": "CNTL",
+      "id": 129,
+      "name": null,
+      "attributes": 0
+    },
+    {
+      "type_hex": "434e544c",
+      "type": "CNTL",
+      "id": 131,
+      "name": null,
+      "attributes": 0
+    },
+    {
+      "type_hex": "434e544c",
+      "type": "CNTL",
+      "id": 128,
+      "name": null,
+      "attributes": 0
+    },
+    {
+      "type_hex": "434e544c",
+      "type": "CNTL",
+      "id": 133,
+      "name": null,
+      "attributes": 0
+    },
+    {
+      "type_hex": "636c7574",
+      "type": "clut",
+      "id": 5000,
+      "name": null,
+      "attributes": 0
+    },
+    {
+      "type_hex": "636c7574",
+      "type": "clut",
+      "id": 5001,
+      "name": null,
+      "attributes": 0
+    },
+    {
+      "type_hex": "636c7574",
+      "type": "clut",
+      "id": 129,
+      "name": null,
+      "attributes": 0
+    },
+    {
+      "type_hex": "636c7574",
+      "type": "clut",
+      "id": 130,
+      "name": null,
+      "attributes": 0
+    },
+    {
+      "type_hex": "636c7574",
+      "type": "clut",
+      "id": 1111,
+      "name": null,
+      "attributes": 0
+    },
+    {
+      "type_hex": "636c7574",
+      "type": "clut",
+      "id": 1114,
+      "name": null,
+      "attributes": 0
+    },
+    {
+      "type_hex": "636c7574",
+      "type": "clut",
+      "id": 1000,
+      "name": null,
+      "attributes": 0
+    },
+    {
+      "type_hex": "6369636e",
+      "type": "cicn",
+      "id": 128,
+      "name": null,
+      "attributes": 0
+    },
+    {
+      "type_hex": "6369636e",
+      "type": "cicn",
+      "id": 129,
+      "name": null,
+      "attributes": 0
+    },
+    {
+      "type_hex": "63667267",
+      "type": "cfrg",
+      "id": 0,
+      "name": null,
+      "attributes": 0
+    },
+    {
+      "type_hex": "424e444c",
+      "type": "BNDL",
+      "id": 128,
+      "name": null,
+      "attributes": 0
+    },
+    {
+      "type_hex": "414c5254",
+      "type": "ALRT",
+      "id": 128,
+      "name": null,
+      "attributes": 32
+    },
+    {
+      "type_hex": "414c5254",
+      "type": "ALRT",
+      "id": 129,
+      "name": null,
+      "attributes": 32
+    },
+    {
+      "type_hex": "414c5254",
+      "type": "ALRT",
+      "id": 136,
+      "name": null,
+      "attributes": 0
+    },
+    {
+      "type_hex": "414c5254",
+      "type": "ALRT",
+      "id": 27309,
+      "name": null,
+      "attributes": 32
+    },
+    {
+      "type_hex": "32362e32",
+      "type": "26.2",
+      "id": 0,
+      "name": null,
+      "attributes": 0
+    }
+  ]
+}
