@@ -1,10 +1,355 @@
 {
   "format": "marathon-1-shapes",
   "version": 1,
+  "map_attributes": 0,
   "source_name": "Shapes.shps",
   "original_file": ".original",
+  "container": {
+    "kind": "macbinary",
+    "header": "AAZTaGFwZXMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABzaHBzMjYuMgEAAAAAAAAAAAAAAAAAAGMZQquDiw6rk0JeAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACBgTFCAAA="
+  },
+  "resources": [
+    {
+      "type_hex": "2e323536",
+      "type": ".256",
+      "id": 152,
+      "name": null,
+      "attributes": 0
+    },
+    {
+      "type_hex": "2e323536",
+      "type": ".256",
+      "id": 157,
+      "name": null,
+      "attributes": 0
+    },
+    {
+      "type_hex": "2e323536",
+      "type": ".256",
+      "id": 130,
+      "name": null,
+      "attributes": 0
+    },
+    {
+      "type_hex": "2e323536",
+      "type": ".256",
+      "id": 140,
+      "name": null,
+      "attributes": 0
+    },
+    {
+      "type_hex": "2e323536",
+      "type": ".256",
+      "id": 144,
+      "name": null,
+      "attributes": 0
+    },
+    {
+      "type_hex": "2e323536",
+      "type": ".256",
+      "id": 136,
+      "name": null,
+      "attributes": 0
+    },
+    {
+      "type_hex": "2e323536",
+      "type": ".256",
+      "id": 142,
+      "name": null,
+      "attributes": 0
+    },
+    {
+      "type_hex": "2e323536",
+      "type": ".256",
+      "id": 137,
+      "name": null,
+      "attributes": 0
+    },
+    {
+      "type_hex": "2e323536",
+      "type": ".256",
+      "id": 143,
+      "name": null,
+      "attributes": 0
+    },
+    {
+      "type_hex": "2e323536",
+      "type": ".256",
+      "id": 133,
+      "name": null,
+      "attributes": 0
+    },
+    {
+      "type_hex": "2e323536",
+      "type": ".256",
+      "id": 128,
+      "name": null,
+      "attributes": 0
+    },
+    {
+      "type_hex": "2e323536",
+      "type": ".256",
+      "id": 135,
+      "name": null,
+      "attributes": 0
+    },
+    {
+      "type_hex": "2e323536",
+      "type": ".256",
+      "id": 149,
+      "name": null,
+      "attributes": 0
+    },
+    {
+      "type_hex": "2e323536",
+      "type": ".256",
+      "id": 131,
+      "name": null,
+      "attributes": 0
+    },
+    {
+      "type_hex": "2e323536",
+      "type": ".256",
+      "id": 150,
+      "name": null,
+      "attributes": 0
+    },
+    {
+      "type_hex": "2e323536",
+      "type": ".256",
+      "id": 145,
+      "name": null,
+      "attributes": 0
+    },
+    {
+      "type_hex": "2e323536",
+      "type": ".256",
+      "id": 146,
+      "name": null,
+      "attributes": 0
+    },
+    {
+      "type_hex": "2e323536",
+      "type": ".256",
+      "id": 147,
+      "name": null,
+      "attributes": 0
+    },
+    {
+      "type_hex": "2e323536",
+      "type": ".256",
+      "id": 155,
+      "name": null,
+      "attributes": 0
+    },
+    {
+      "type_hex": "2e323536",
+      "type": ".256",
+      "id": 154,
+      "name": null,
+      "attributes": 0
+    },
+    {
+      "type_hex": "2e323536",
+      "type": ".256",
+      "id": 129,
+      "name": null,
+      "attributes": 0
+    },
+    {
+      "type_hex": "2e323536",
+      "type": ".256",
+      "id": 153,
+      "name": null,
+      "attributes": 0
+    },
+    {
+      "type_hex": "2e323536",
+      "type": ".256",
+      "id": 151,
+      "name": null,
+      "attributes": 0
+    },
+    {
+      "type_hex": "2e323536",
+      "type": ".256",
+      "id": 134,
+      "name": null,
+      "attributes": 0
+    },
+    {
+      "type_hex": "2e323536",
+      "type": ".256",
+      "id": 132,
+      "name": null,
+      "attributes": 0
+    },
+    {
+      "type_hex": "2e323536",
+      "type": ".256",
+      "id": 138,
+      "name": "splash graphics",
+      "attributes": 0
+    },
+    {
+      "type_hex": "50494354",
+      "type": "PICT",
+      "id": 10012,
+      "name": null,
+      "attributes": 0,
+      "editable_file": "editable/PICT_10012.png",
+      "editable_sha256": "52dbdaf73840a8cdd3ac57aa9b0acde2cf3b9fc622f131460b3b9b276997e545"
+    },
+    {
+      "type_hex": "50494354",
+      "type": "PICT",
+      "id": 10100,
+      "name": null,
+      "attributes": 0,
+      "editable_file": "editable/PICT_10100.png",
+      "editable_sha256": "2bab46533b02eb691e4d668fda915b12b94fbc2f39ae3e4207f42a8c1c15d916"
+    },
+    {
+      "type_hex": "50494354",
+      "type": "PICT",
+      "id": 10000,
+      "name": null,
+      "attributes": 0,
+      "editable_file": "editable/PICT_10000.png",
+      "editable_sha256": "94c7cc3c0b97405c0cf7445fa4861baaf775b2932afa30ab3afe4d30a9510770"
+    },
+    {
+      "type_hex": "50494354",
+      "type": "PICT",
+      "id": 10003,
+      "name": null,
+      "attributes": 0,
+      "editable_file": "editable/PICT_10003.png",
+      "editable_sha256": "47297a63f9c4294a87f902b0b6b6f5e4774b6eaf7268be8d72b3856b6aaf1444"
+    },
+    {
+      "type_hex": "50494354",
+      "type": "PICT",
+      "id": 10016,
+      "name": null,
+      "attributes": 0,
+      "editable_file": "editable/PICT_10016.png",
+      "editable_sha256": "c083e83e9267a138869e7ab2ab134e6b3fa11debf4839732cfdc53e0016566de"
+    },
+    {
+      "type_hex": "50494354",
+      "type": "PICT",
+      "id": 10024,
+      "name": null,
+      "attributes": 0,
+      "editable_file": "editable/PICT_10024.png",
+      "editable_sha256": "f382fb38b702285a7999e99cef5f55af992050bfebf8376149a5184117b023e9"
+    },
+    {
+      "type_hex": "50494354",
+      "type": "PICT",
+      "id": 10010,
+      "name": null,
+      "attributes": 0,
+      "editable_file": "editable/PICT_10010.png",
+      "editable_sha256": "2d433e5d3805b92cf646c06a23c97fca85b129a2bb761f6189c53dd96d7b87a8"
+    },
+    {
+      "type_hex": "50494354",
+      "type": "PICT",
+      "id": 10101,
+      "name": null,
+      "attributes": 0,
+      "editable_file": "editable/PICT_10101.png",
+      "editable_sha256": "608246ab8f8bfd765062d96ce8fe676280b33466cd9c2b0aeaedaa88f2bcb56c"
+    },
+    {
+      "type_hex": "636c7574",
+      "type": "clut",
+      "id": 10000,
+      "name": null,
+      "attributes": 0
+    },
+    {
+      "type_hex": "636c7574",
+      "type": "clut",
+      "id": 10003,
+      "name": null,
+      "attributes": 0
+    },
+    {
+      "type_hex": "636c7574",
+      "type": "clut",
+      "id": 10010,
+      "name": null,
+      "attributes": 0
+    },
+    {
+      "type_hex": "636c7574",
+      "type": "clut",
+      "id": 10012,
+      "name": null,
+      "attributes": 0
+    },
+    {
+      "type_hex": "636c7574",
+      "type": "clut",
+      "id": 10016,
+      "name": null,
+      "attributes": 0
+    },
+    {
+      "type_hex": "636c7574",
+      "type": "clut",
+      "id": 10024,
+      "name": null,
+      "attributes": 0
+    },
+    {
+      "type_hex": "636c7574",
+      "type": "clut",
+      "id": 10101,
+      "name": null,
+      "attributes": 0
+    },
+    {
+      "type_hex": "636c7574",
+      "type": "clut",
+      "id": 10100,
+      "name": null,
+      "attributes": 0
+    },
+    {
+      "type_hex": "636c7574",
+      "type": "clut",
+      "id": 1002,
+      "name": null,
+      "attributes": 0
+    },
+    {
+      "type_hex": "636c7574",
+      "type": "clut",
+      "id": 1001,
+      "name": null,
+      "attributes": 0
+    },
+    {
+      "type_hex": "636c7574",
+      "type": "clut",
+      "id": 1000,
+      "name": null,
+      "attributes": 0
+    },
+    {
+      "type_hex": "636c7574",
+      "type": "clut",
+      "id": 1003,
+      "name": null,
+      "attributes": 0
+    }
+  ],
   "collection": 10,
-  "images": [
+  "shape_images": [
     {
       "shape": 0,
       "bitmap": 0,
@@ -19,7 +364,7 @@
       "width": 435,
       "height": 325,
       "file": "editable/collection_10/shape_01.png",
-      "sha256": "5147e6d6fd9626a65de08f80915197c6511cbf8731b7641c0a41fd3ca13b0ecb"
+      "sha256": "66913e40f3f55ab6354e90803a2005696b9d8f799cd0180640582ef87b18db99"
     },
     {
       "shape": 2,
@@ -83,7 +428,7 @@
       "width": 47,
       "height": 29,
       "file": "editable/collection_10/shape_09.png",
-      "sha256": "68718aa66b4c4bacd5bdc7881fa9955cd8a203813bb04c6d2a61b7e378819a1e"
+      "sha256": "ea61b4cb7542b06019d6ee12ee567315eaa415cbb950a3d74efb4f14c5beb0c9"
     },
     {
       "shape": 10,
@@ -91,7 +436,7 @@
       "width": 46,
       "height": 29,
       "file": "editable/collection_10/shape_10.png",
-      "sha256": "d073258ad027bd8d608ec86d3cb31565a36ea755b3a5e7a7c1fa817ebfe47922"
+      "sha256": "18915ad75b900fd0be174fe39041934df76c2fd9cb2638a03396395fb16c42e2"
     },
     {
       "shape": 11,
@@ -99,7 +444,7 @@
       "width": 137,
       "height": 30,
       "file": "editable/collection_10/shape_11.png",
-      "sha256": "8d24a9cb72efd22e39ac84b5f0b96950edc8473d78d299237625f7deb24902a5"
+      "sha256": "f974fa8fb41b637c7fca514075a9d8350170ac4f3704af834a65f60274a42772"
     },
     {
       "shape": 12,
@@ -107,7 +452,7 @@
       "width": 137,
       "height": 30,
       "file": "editable/collection_10/shape_12.png",
-      "sha256": "75bd39f67cfd29f0dec50515dfb48facd5752eb98c8aa10155ef376a7050cc8f"
+      "sha256": "fed5d4345aea1d65d874031f55f45bd719ab5b69d134d7ad81dafe9401b9eac1"
     },
     {
       "shape": 13,

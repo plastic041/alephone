@@ -21,7 +21,7 @@ def main() -> None:
     try:
         if is_m1_shapes(args.input):
             count = unpack_shapes(args.input, output)
-            noun = "menu shapes"
+            noun = "editable images"
         else:
             count = unpack(args.input, output)
             noun = "resources"

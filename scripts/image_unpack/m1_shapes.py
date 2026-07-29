@@ -3,11 +3,18 @@ from __future__ import annotations
 import hashlib
 import json
 import struct
+import tempfile
 from pathlib import Path
 
 from PIL import Image
 
-from resource_fork import FormatError, parse_resource_fork, split_container
+from resource_fork import (
+    FormatError,
+    pack as pack_resources,
+    parse_resource_fork,
+    split_container,
+    unpack as unpack_resources,
+)
 
 
 COLLECTION = 10
@@ -84,10 +91,10 @@ def unpack_shapes(source: Path, destination: Path) -> int:
     blob = source.read_bytes()
     payload = _collection_payload(blob)
     palette, bitmap_offsets = _parse_collection(payload)
-    destination.mkdir(parents=True, exist_ok=True)
+    # First expose PICT resources using the normal resource-fork workflow.
+    unpack_resources(source, destination)
     editable = destination / "editable" / "collection_10"
     editable.mkdir(parents=True, exist_ok=True)
-    (destination / ".original").write_bytes(blob)
 
     flat_palette = [component for color in palette for component in color]
     entries = []
@@ -113,18 +120,15 @@ def unpack_shapes(source: Path, destination: Path) -> int:
             }
         )
 
-    manifest = {
-        "format": "marathon-1-shapes",
-        "version": 1,
-        "source_name": source.name,
-        "original_file": ".original",
-        "collection": COLLECTION,
-        "images": entries,
-    }
+    manifest = json.loads((destination / "manifest.json").read_text(encoding="utf-8"))
+    manifest["format"] = "marathon-1-shapes"
+    manifest["collection"] = COLLECTION
+    manifest["shape_images"] = entries
     (destination / "manifest.json").write_text(
         json.dumps(manifest, ensure_ascii=False, indent=2) + "\n", encoding="utf-8"
     )
-    return len(entries)
+    pict_count = sum(1 for entry in manifest["resources"] if entry.get("editable_file"))
+    return len(entries) + pict_count
 
 
 def _locate_resource(blob: bytes) -> tuple[int, int]:
@@ -154,15 +158,29 @@ def _locate_resource(blob: bytes) -> tuple[int, int]:
 
 def pack_shapes(source: Path, destination: Path) -> int:
     manifest = json.loads((source / "manifest.json").read_text(encoding="utf-8"))
-    blob = bytearray((source / manifest["original_file"]).read_bytes())
+    pict_changed = sum(
+        1
+        for entry in manifest["resources"]
+        if entry.get("editable_file")
+        and _sha256(source / entry["editable_file"]) != entry.get("editable_sha256")
+    )
+    # Rebuild only when a PICT changed; otherwise preserve the original container
+    # byte-for-byte and patch collection pixels directly.
+    if pict_changed:
+        with tempfile.TemporaryDirectory() as temporary:
+            resource_output = Path(temporary) / "Shapes-with-picts.shps"
+            pack_resources(source, resource_output)
+            blob = bytearray(resource_output.read_bytes())
+    else:
+        blob = bytearray((source / manifest["original_file"]).read_bytes())
     payload_start, payload_length = _locate_resource(blob)
     payload = bytearray(blob[payload_start : payload_start + payload_length])
     palette, bitmap_offsets = _parse_collection(payload)
 
     palette_image = Image.new("P", (1, 1))
     palette_image.putpalette([component for color in palette for component in color])
-    changed = 0
-    for entry in manifest["images"]:
+    changed = pict_changed
+    for entry in manifest["shape_images"]:
         path = source / entry["file"]
         if _sha256(path) == entry["sha256"]:
             continue

@@ -20,7 +20,7 @@ def main() -> None:
         manifest = json.loads((args.input / "manifest.json").read_text(encoding="utf-8"))
         if manifest.get("format") == "marathon-1-shapes":
             count = pack_shapes(args.input, args.output)
-            message = f"packed {count} changed menu shapes into {args.output}"
+            message = f"packed {count} changed images into {args.output}"
         else:
             count = pack(args.input, args.output)
             message = f"packed {count} resources into {args.output}"
