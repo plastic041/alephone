@@ -1,0 +1,5 @@
+;L251.Suckysucky.secret bungie message
+#logon
+                        플레이스홀더 텍스트입니다.
+#information
+플레이스홀더 텍스트입니다.

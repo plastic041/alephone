@@ -1,0 +1,5 @@
+;L261.INQUEFERROQUE.BUNGIE RULES.TERM1
+#logon 
+                        플레이스홀더 텍스트입니다.
+#information
+플레이스홀더 텍스트입니다.
